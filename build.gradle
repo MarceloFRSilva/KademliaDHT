@@ -50,12 +50,12 @@ uploadArchives {
                 name 'KademliaDHT'
                 packaging 'jar'
                 description 'KademliaDHT implementation in Java'
-                url 'https://github.com/ChronosX88/KademliaDHT'
+                url 'https://github.com/MarceloFRSilva/KademliaDHT'
 
                 scm {
-                    connection 'scm:git:git://github.com/ChronosX88/KademliaDHT.git'
-                    developerConnection 'scm:git:git@github.com:ChronosX88/KademliaDHT.git'
-                    url 'https://github.com/ChronosX88/KademliaDHT'
+                    connection 'scm:git:git://github.com/MarceloFRSilva/KademliaDHT.git'
+                    developerConnection 'scm:git:git@github.com:MarceloFRSilva/KademliaDHT.git'
+                    url 'https://github.com/MarceloFRSilva/KademliaDHT'
                 }
 
                 licenses {
