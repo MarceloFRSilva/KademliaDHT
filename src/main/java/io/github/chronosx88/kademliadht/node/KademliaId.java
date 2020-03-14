@@ -20,7 +20,7 @@ import java.util.Random;
 public class KademliaId implements Streamable, Serializable
 {
 
-    public final transient static int ID_LENGTH = 160;
+    public final transient static int ID_LENGTH = 256;
     private byte[] keyBytes;
 
     /**
